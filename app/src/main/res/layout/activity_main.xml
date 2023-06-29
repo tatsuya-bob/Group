@@ -59,7 +59,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="６択チャレンジ"
+<<<<<<< HEAD
         android:textColor="#FB8C00"
+=======
+        android:textColor="@color/purple_200"
+>>>>>>> 4577d6a (update3)
         android:textSize="48sp"
         app:layout_constraintBottom_toTopOf="@+id/guideline"
         app:layout_constraintEnd_toEndOf="parent"
