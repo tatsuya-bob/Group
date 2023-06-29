@@ -58,7 +58,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="６択"
+        android:text="６択ボタン"
         android:textColor="@color/purple_500"
         android:textSize="48sp"
         app:layout_constraintBottom_toTopOf="@+id/guideline"
